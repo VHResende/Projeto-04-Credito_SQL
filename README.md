@@ -2,8 +2,8 @@
 **Victor Resende**
 _______________
 # Projeto 04_Crédito
-**Projeto 04_SQL e AWSCiência de Dados**
+**Projeto 04_SQL e AWS**
 _______________
 Projeto para Concessão de Crédito desenvolvido em SQL e AWS
 ______________
-
+Disponível no Kaggle: 
