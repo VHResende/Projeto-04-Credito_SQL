@@ -12,5 +12,7 @@ ______________
 
 Esse notebook é parte do curso SQL para análise de dados da EBAC.
 
-**Resumo**: nesse projeto vamos explorar e analisar dados de banco para a concessão de crédito. Selecionamos uma parte dos dados que estão disponíveis em Dados originais - gitHub André Perez: https://github.com/andre-marcos-perez/ebac-course-utils. Nosso projeto é constituído de três partes: 1. Exploração de dados; 2. Análise de Dados; e 3. Conclusão.
+**Resumo**: nesse projeto vamos explorar e analisar dados de banco para a concessão de crédito. Selecionamos uma parte dos dados que estão disponíveis em Dados originais - gitHub André Perez: https://github.com/andre-marcos-perez/ebac-course-utils. 
+
+Nosso projeto é constituído de três partes: **1. Exploração de dados**; **2. Análise de Dados**; e **3. Conclusão**.
 
