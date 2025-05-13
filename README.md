@@ -4,7 +4,7 @@ _______________
 # 💳Projeto 04_Crédito
 **Projeto 04_SQL e AWS**
 _______________
-Projeto para Concessão de Crédito desenvolvido em SQL e AWS
+**Projeto para Concessão de Crédito desenvolvido em SQL e AWS**
 ______________
 Disponível no Kaggle: https://www.kaggle.com/code/vresende/projeto-para-concess-o-de-cr-dito-sql-aws
 ______________
